@@ -1,37 +1,19 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
-date: 2016-03-21
+title: Sobre a gestão do CAMat
+tags: 
+date: 2017-08-01
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+Acreditamos que o CAMAT deve representar os estudantes do IME como um todo,
+não somente os estudantes que compõem a gestão eleita. É importante o posicionamento 
+político, porém nosso interesse não é impor ideias aos estudantes, e sim enriquecer 
+o debate e incentivar a participação dos imeanos.
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+Nosso foco é construir um ambiente de diálogo entre alunos, professores e administração,
+incentivar a integração e a colaboração entre os estudantes e impulsionar as melhorias 
+necessárias ao instituto (sejam elas no âmbito da graduação, pós, representação discente,
+e apoio às minorias). 
 
-## Preview
-
-{% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
-{% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+Por isso, nos preocupamos em montar uma gestão representativa da diversidade dos alunos 
+do ime: mulheres, negras e negros, estudantes do noturno, da pós e de todos os cursos da graduação.
