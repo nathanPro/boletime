@@ -8,8 +8,8 @@ logo:               'assets/img/logo.jpg'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             pt_BR
-#url:                "http://www.ime.usp.br/~camat/boletIME"
-url:                ""
+url:                "/~camat/boletIME"
+#url:                ""
 baseurl:            ""
 
 # Jekyll
@@ -38,9 +38,9 @@ sass:
   #ad-client:
   #ad-slot:
 #bing-verify:
-#email:
+email:              camat@ime.usp.br
 #twitter:            username
-#facebook:           username
+facebook:           CAMatUSP
 #github-url:         username
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
