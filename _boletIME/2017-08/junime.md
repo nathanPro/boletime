@@ -3,7 +3,6 @@ layout: post
 title:  "JunIME"
 date:   2017-08-01 00:07
 excerpt: "é de comer!"
-up: "/boletIME/2017-08/index"
 tag:
 comments: false 
 ---

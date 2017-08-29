@@ -3,7 +3,6 @@ layout: post
 title:  "Como se organiza a gestão?"
 date:   2017-08-01 00:09
 excerpt: "Como que faz pra todo mundo trabalhar?"
-up: "/boletIME/2017-08/index"
 tag:
 comments: false 
 ---

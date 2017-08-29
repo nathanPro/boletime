@@ -3,7 +3,6 @@ layout: post
 title:  "Debate sobre políticas de inclusão na USP"
 date:   2017-08-01 00:08
 excerpt: "Organizado no IME, antecedeu aprovação de cotas no CO"
-up: "/boletIME/2017-08/index"
 tag:
 comments: false 
 ---

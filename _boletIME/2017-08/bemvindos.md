@@ -2,7 +2,6 @@
 layout: post
 title:  "Conheçam o BoletIME!"
 date:   2017-08-01 00:10
-up: "/boletIME/2017-08/index"
 tag:
 comments: false 
 ---

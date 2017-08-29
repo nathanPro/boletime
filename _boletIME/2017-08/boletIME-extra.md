@@ -3,7 +3,6 @@ layout: post
 title:  "O que é o boletIME?"
 date:   2017-08-01 00:10
 excerpt: "é de comer?"
-up: "/boletIME/2017-08/index"
 tag:
 comments: false 
 ---
