@@ -28,3 +28,9 @@ Também viemos lembrar vocês de duas coisas importantes:
 - Semana da Pátria: na semana do dia 04/09 não teremos aula!
 - Não se esqueçam que o período para trancar matérias se encerra no 
 dia 13/09!
+
+Datas das Reuniões Abertas:
+
+- 13/09 as 18h
+- 19/09 as 12h
+- 27/09 as 18h
