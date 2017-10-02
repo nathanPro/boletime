@@ -29,7 +29,7 @@ comments: false
 
     <li class="wow fadeInLeft" data-wow-duration="1.5s">
         <a class="zoombtn" href="{{ site.url }}/boletIME/2017-10/reitoria">Reitoria USP</a><br>
-        <a href="{{ site.url }}/boletIME/2017-10/sinuca" class="btn zoombtn">Leia mais</a>
+        <a href="{{ site.url }}/boletIME/2017-10/reitoria" class="btn zoombtn">Leia mais</a>
     </li>
 </ul>
 </div>
