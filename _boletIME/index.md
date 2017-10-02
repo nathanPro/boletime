@@ -4,10 +4,12 @@ title: "boletIME"
 excerpt: "Notícias do IME"
 comments: false
 ---
-<a href="{{ site.url }}/boletIME/2017-08/index">
-    Edição extraordinária: Agosto de 2017
+<a href="{{ site.url }}/boletIME/2017-10/index">
+    Outubro de 2017
 </a><br>
 <a href="{{ site.url }}/boletIME/2017-09/index">
-    Edição Setembro de 2017
+    Setembro de 2017
+</a><br>
+<a href="{{ site.url }}/boletIME/2017-08/index">
+    Edição extraordinária: agosto de 2017
 </a>
-
