@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "boletIME setembro de 2017"
+title: "boletIME outubro de 2017"
 date: 2017-08-30 12:00
 excerpt: ""
 comments: false
