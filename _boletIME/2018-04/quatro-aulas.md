@@ -20,6 +20,3 @@ das 18h às 19h, com a Profª Lucília Borsari “Conversando sobre Demonstraç�
 Essas aulas são pensadas especialmente para estudantes dos primeiros anos de cursos
 do IME e darão um bom panorama em vários pontos sobre demonstrações
 --- tudo que não dizem em aula. Não percam!
-
-## Próximos eventos
-No fim do mês de abril vamos transformar café em teoremas! Fiquem atentos!
